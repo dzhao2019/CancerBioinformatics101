@@ -6,7 +6,7 @@ This folder contains structured notes and literature summaries on clinical cance
 ## Table of Contents
 
 ### 1. Key Topics in Clinical Cancer Genomics
-* [Genes Related to Cancer](https://github.com/dzhao2019/CancerBioinformatics101/tree/main/Clinical_Genomics_Notes/Genes)
+* [Genes Related to Cancer](https://github.com/dzhao2019/CancerBioinformatics101/blob/main/CancerGenomics/Genes_Related_to_Cancer.md)
 * Somatic vs. Germline Mutations in Cancer
 * Tumor Mutational Burden (TMB) and MSI in Immunotherapy
 * Copy Number Variations (CNVs) in Tumors
@@ -14,8 +14,8 @@ This folder contains structured notes and literature summaries on clinical cance
 * Liquid Biopsy and Circulating Tumor DNA (ctDNA) in Diagnostics
   
 ### 2. Cancer-Specific Genomics Notes
-  * [Lung Cancer Genomics](https://github.com/dzhao2019/CancerBioinformatics101/blob/main/Clinical_Genomics_Notes/Lung%20Cancer.md)
-  * [Breast Cancer Genomics](https://github.com/dzhao2019/CancerBioinformatics101/blob/main/Clinical_Genomics_Notes/Breast%20Cancer.md)
+  * [Lung Cancer Genomics](https://github.com/dzhao2019/CancerBioinformatics101/blob/main/CancerGenomics/LungCancer.md)
+  * [Breast Cancer Genomics](https://github.com/dzhao2019/CancerBioinformatics101/blob/main/CancerGenomics/BreastCancer.md)
   * Colorectal Cancer Genomics
   * Prostate Cancer Genomics
   * Pancreatic Cancer Genomics
